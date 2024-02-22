@@ -6,6 +6,9 @@
 
 Термобарьер клеится к креплению на каплю суперклея
 
+x_offset = 0
+y_offset = -26
+
 <br>Темпиратура после 20 минут при сопле на 270 в открытой камере.
 ![image](https://github.com/Murrdo/Mount-BIQU-MicroProbe-to-H2-s-fan/assets/146051709/ea6e2467-02ba-4da5-bf3f-633b661e122a)
 
